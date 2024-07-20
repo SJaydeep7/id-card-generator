@@ -328,7 +328,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className=" p-6 overflow-hidden grid md:grid-cols-2 grid-cols-2 gap-4 md:gap-6">
+                <div className=" p-10 overflow-hidden grid md:grid-cols-2 grid-cols-2 gap-4 md:gap-6">
                   <button
                     type="button"
                     className="w-32 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center"
